@@ -1,0 +1,21 @@
+.header {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2d2e3a;
+  color: white;
+  text-align: center;
+  font-family: seasoned-hostess, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.content {
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+img {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
